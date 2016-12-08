@@ -5,14 +5,13 @@ Questo nuovissimo software si propone come strumento di supporto sia per student
 il tutto accompagnato da una grafica sbalorditiva che migliorerà l'impatto visivo.
 
 Potete visualizzare altre informazioni relative all'applicazioni sulla <a href="https://github.com/Stefano-Cilenti-JCMaxwell-4Bi/Registro_Aplha/wiki"> Wiki</a>.
-<p>
-<p>
-<p>
-<p>
+<br>
+<br>
 <p>Il passato è storia.
 <p>Il presente è passato .
 <p>Il futuro è oggi.
-
+<br>
+<br>
 <h1> Specifiche Esterne </h1>
 Il programma terminato presenterà un'interfaccia facile ed intuitiva, pensata per qualsiasi utente, in modo che chiunque possa utilizzarlo senza problemi e senza scervellarcisi sopra.
 Le principali funzioni del registro saranno suddivise per professori e studenti, e permetteranno le seguenti cose:
