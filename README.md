@@ -37,7 +37,11 @@ Le principali funzioni del registro saranno suddivise per professori e studenti,
 <br>
 <h1> Specifiche interne </h1>
 Il programma sarà sviluppato interamente in JAVA per far si che possa essere utilizzato su qualsiasi sitema operativo.
-
-
-
-
+Tutti i dati verranno salvati su un server e anche nella macchina dell'utente, con la possibilità di scaricare tutti i sulla macchina.
+Questo per permettere di visualizzare i dati offline e fornire una sorta di backup.
+<br>
+<br>
+<br>
+<br>
+<br>
+maggiori informazioni posso essere trovate nella <a href="https://github.com/Stefano-Cilenti-JCMaxwell-4Bi/Registro_Aplha/wiki"> Wiki</a>.
