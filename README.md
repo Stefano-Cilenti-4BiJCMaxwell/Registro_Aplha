@@ -34,7 +34,10 @@ Le principali funzioni del registro saranno suddivise per professori e studenti,
 ~ Possibilità di richiedere un colloquio al singolo studente
 ~ Possibilità di aggiungere compiti e/o annunci sulla bacheca della classe
 <p>
+<br>
 <h1> Specifiche interne </h1>
+Il programma sarà sviluppato interamente in JAVA per far si che possa essere utilizzato su qualsiasi sitema operativo.
+
 
 
 
