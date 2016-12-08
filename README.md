@@ -1,15 +1,14 @@
 <h1><center> REGISTRO ALPHA </center></h1>
 Siete una piccola scuola che vuole entrare nel ventunesimo secolo? Nessun problema!
 Il nostro team di sviluppo vi propone <b><i>Registro alpha</i></b>.
-
-Potete visualizzare altre informazioni relative all'applicazioni sulla <a href="https://github.com/Stefano-Cilenti-JCMaxwell-4Bi/Registro_Aplha/wiki"> Wiki</a>.
 <br>
 <br>
-<p>Il passato è storia.
-<p>Il presente è passato .
-<p>Il futuro è oggi.
+<p>Il passato è storia
+<p>Il presente è passato
+<p>Il futuro è oggi
 <br>
 <br>
+<hr>
 <h1> Specifiche Esterne </h1>
 Il programma terminato presenterà un'interfaccia facile ed intuitiva, pensata per qualsiasi utente, in modo che chiunque possa utilizzarlo senza problemi e senza scervellarcisi sopra.
 Le principali funzioni del registro saranno suddivise per professori e studenti, e permetteranno le seguenti cose:
