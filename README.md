@@ -41,4 +41,4 @@ Questo per permettere di visualizzare i dati offline e fornire una sorta di back
 <br>
 <br>
 <br>
-maggiori informazioni posso essere trovate nella <a href="https://github.com/Stefano-Cilenti-JCMaxwell-4Bi/Registro_Aplha/wiki"> Wiki</a>.
+Maggiori informazioni relative alla versione corrente e alle features disponibili attualmente posso essere trovate nella <a href="https://github.com/Stefano-Cilenti-JCMaxwell-4Bi/Registro_Aplha/wiki"> Wiki</a>.
