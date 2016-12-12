@@ -32,10 +32,7 @@ Le principali funzioni del registro saranno suddivise per professori e studenti,
 ~ Possibilità di aggiungere compiti e/o annunci sulla bacheca della classe
 <p>
 <br>
-<h1> Specifiche interne </h1>
-Il programma sarà sviluppato interamente in JAVA per far si che possa essere utilizzato su qualsiasi sitema operativo.
-Tutti i dati verranno salvati su un server e anche nella macchina dell'utente, con la possibilità di scaricare tutti i sulla macchina.
-Questo per permettere di visualizzare i dati offline e fornire una sorta di backup.
+
 <br>
 <br>
 <br>
