@@ -31,11 +31,14 @@ Le principali funzioni del registro saranno suddivise per professori e studenti,
 ~ Possibilità di richiedere un colloquio al singolo studente
 ~ Possibilità di aggiungere compiti e/o annunci sulla bacheca della classe
 <p>
+<h1> modalita d'uso </h1>
+l'ipotetico utente che puo essere un genitore, uno studente o il professore stesso accederanno alle funzionalità del programma tramite inserimento delle loro credenziali (nome utente e password) fatto questo si accederà alla pagina iniziale del registro nella quale si trovano le funzionalità principali a seconda del tipo d'utente che vi è acceduto
+
+
+
+
 <br>
-<h1> Specifiche interne </h1>
-Il programma sarà sviluppato interamente in JAVA per far si che possa essere utilizzato su qualsiasi sitema operativo.
-Tutti i dati verranno salvati su un server e anche nella macchina dell'utente, con la possibilità di scaricare tutti i sulla macchina.
-Questo per permettere di visualizzare i dati offline e fornire una sorta di backup.
+
 <br>
 <br>
 <br>
