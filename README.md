@@ -29,7 +29,7 @@ Le principali funzioni del registro saranno suddivise per professori e studenti,
 ~ Visualizzazione del proprio orario scolastico con le classi.
 ~ Visualizzare i dati anagrafici degli studenti.
 ~ Possibilità di richiedere un colloquio al singolo studente
-~ Possibilità di aggiungere compiti e/o annunci sulla bacheca della classe
+~ Possibilità di aggiungere compiti e/o annunci sulla bacheca della classe in modo da essere sempre aggiornati
 <p>
 <h1> modalita d'uso </h1>
 l'ipotetico utente che puo essere un genitore, uno studente o il professore stesso accederanno alle funzionalità del programma tramite inserimento delle loro credenziali (nome utente e password) fatto questo si accederà alla pagina iniziale del registro nella quale si trovano le funzionalità principali a seconda del tipo d'utente che vi è acceduto
