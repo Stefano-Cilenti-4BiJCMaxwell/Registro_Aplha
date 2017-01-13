@@ -9,18 +9,20 @@ Il nostro team di sviluppo vi propone <b><i>Registro alpha</i></b>.
 <br>
 <br>
 <hr>
-<h1> Specifiche Esterne </h1>
+<h1> Funzioni </h1>
 Il programma terminato presenterà un'interfaccia facile ed intuitiva, pensata per qualsiasi utente, in modo che chiunque possa utilizzarlo senza problemi e senza scervellarcisi sopra.
 Le principali funzioni del registro saranno suddivise per professori e studenti, e permetteranno le seguenti cose:
 <p>
 <h4> Studenti </h4>
-~ Visualizzazione dei voti e della media.
-~ Visualizzazione dei ritardi e delle assenze con la possibilità di giustificare.
-~ Visualizzazione dell'elenco dei professori della classe, con un contatto email(scolastico) in caso di necessità.
-~ Visualizzazione dell'orario scolastico.
-~ Visualizzare i propri dati anagrafici, rate pagate/non pagate, voti scrutinio e media di fine anno.
-~ Possibilità di richiedere un colloquio ad un professore.
-~ Molte altre features che verranno aggiunte in base ai feedback.
+<ul>
+  <li>  ~ Visualizzazione dei voti e della media.
+  <li> ~ Visualizzazione dei ritardi e delle assenze con la possibilità di giustificare.
+  <li> ~ Visualizzazione dell'elenco dei professori della classe, con un contatto email(scolastico) in caso di necessità.
+  <li> ~ Visualizzazione dell'orario scolastico.
+  <li> ~ Visualizzare i propri dati anagrafici, rate pagate/non pagate, voti scrutinio e media di fine anno.
+  <li> ~ Possibilità di richiedere un colloquio ad un professore.
+  <li> ~ Molte altre features che verranno aggiunte in base ai feedback.
+</ul>
 <h4> Professori </h4>
 ~ Visualizzazione dei voti e della media degli studenti delle proprie classi.
 ~ Visualizzazione dei ritardi e delle assenze con la possibilità di giustificare.
