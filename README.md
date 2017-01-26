@@ -1,7 +1,7 @@
-<br><h1><center> REGISTRO  ΩMEGA </center></h1>
+<br><h1><center> REGISTRO  Ωhm</center></h1>
 <p>
 Siete una piccola scuola che vuole entrare nel ventunesimo secolo? Nessun problema!
-Il nostro team di sviluppo vi propone <b><i>Registro alpha</i></b>.
+Il nostro team di sviluppo vi propone <b><i>Registro  Ωhm</i></b>.
 </p>
 <p>Il passato è storia. Il presente è passato. Il futuro è oggi.
 <br>
