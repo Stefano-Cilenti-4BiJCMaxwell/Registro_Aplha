@@ -1,5 +1,3 @@
-
-/p
 <br><h1><center> REGISTRO  ΩMEGA </center></h1>
 Siete una piccola scuola che vuole entrare nel ventunesimo secolo? Nessun problema!
 Il nostro team di sviluppo vi propone <b><i>Registro alpha</i></b>.
