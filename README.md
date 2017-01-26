@@ -2,13 +2,8 @@
 Siete una piccola scuola che vuole entrare nel ventunesimo secolo? Nessun problema!
 Il nostro team di sviluppo vi propone <b><i>Registro alpha</i></b>.
 <br>
+<p>Il passato è storia. Il presente è passato. Il futuro è oggi.
 <br>
-<p>Il passato è storia
-<p>Il presente è passato
-<p>Il futuro è oggi
-<br>
-<br>
-<hr>
 <h1> Funzioni </h1>
 Il programma terminato presenterà un'interfaccia facile ed intuitiva, pensata per qualsiasi utente, in modo che chiunque possa utilizzarlo senza problemi e senza scervellarcisi sopra.
 Le principali funzioni del registro saranno suddivise per professori e studenti, e permetteranno le seguenti cose:
