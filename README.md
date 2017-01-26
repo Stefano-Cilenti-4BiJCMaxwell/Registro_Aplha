@@ -3,7 +3,6 @@
 Siete una piccola scuola che vuole entrare nel ventunesimo secolo? Nessun problema!
 Il nostro team di sviluppo vi propone <b><i>Registro alpha</i></b>.
 </p>
-<br>
 <p>Il passato è storia. Il presente è passato. Il futuro è oggi.
 <br>
 <h1> modalita d'uso </h1>
