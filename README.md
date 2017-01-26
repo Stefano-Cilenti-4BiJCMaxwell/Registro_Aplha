@@ -15,7 +15,7 @@ Descrizione programma
 <p>Il programma sarà sviluppato interamente in JAVA per far si che possa essere utilizzato su qualsiasi sitema operativo. Tutti i dati verranno salvati su un server e anche nella macchina dell'utente, con la possibilità di scaricare tutti i sulla macchina. Questo per permettere di visualizzare i dati offline e fornire una sorta di backup. </p>
 <br>
 <h1>Istruzioni di Installazione</h1>
- <p>il programma verrà installato e l'utente potrà accedre tramite credenziali ( nome utente e password) e poi potà tranquillamente interfacciarsi con il nonstro registro</p>
+ <p>il programma verrà installato e l'utente potrà accedre tramite credenziali ( nome utente e password) e poi potà tranquillamente interfacciarsi con il nostro registro</p>
 
 <h1>Autori</h1>
 <p>Cilenti Stefano</p>
