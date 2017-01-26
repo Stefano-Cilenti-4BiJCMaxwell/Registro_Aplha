@@ -15,7 +15,18 @@ Descrizione programma
 <p>Il programma sarà sviluppato interamente in JAVA per far si che possa essere utilizzato su qualsiasi sitema operativo. Tutti i dati verranno salvati su un server e anche nella macchina dell'utente, con la possibilità di scaricare tutti i sulla macchina. Questo per permettere di visualizzare i dati offline e fornire una sorta di backup. </p>
 <br>
 <h1>Istruzioni di Installazione</h1>
- <p>il programma verrà installato e l'utente potrà accedre tramite credenziali ( nome utente e password) e poi potà tranquillamente interfacciarsi con il nostro registro</p>
+ <p>il programma verrà installato e l'utente potrà accedre tramite credenziali ( nome utente e password) e poi potrà tranquillamente interfacciarsi con il nostro registro</p>
+ <h1> vantaggi</h1>
+<p> il nostro registro elettronico da la possibilità di accedervi da ogni dispositivo a disposizione (pc,tablet,smartphone)
+ inoltre i genitori e gli studenti avranno sempre un feedback diretti di voti e assenze di questi ultimi. </p>
+ <br>
+ <h1> svantaggi</h1>
+ <p> non si potrà accedere al registro in assenza di una connsessione ad internet inoltre in caso di smarrimento di credenziali l'unico modo per resettarle e chiedere alla scuola con tempi di attesa molto lunghi</p>
+ <br>
+ <h1> slogan </h1>
+ <p> scegli  Ωhm scegli il futuro.</p>
+ <br>
+ 
 
 <h1>Autori</h1>
 <p>Cilenti Stefano</p>
