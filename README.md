@@ -5,13 +5,13 @@ Il nostro team di sviluppo vi propone <b><i>Registro  Ωhm</i></b>.
 </p>
 <p>Il passato è storia. Il presente è passato. Il futuro è oggi.
 <br>
-<h1>Modalita d'uso </h1>
+<h1>Modalita d'uso:</h1>
 L'ipotetico utente che puo essere un genitore, uno studente o il professore stesso accederanno alle funzionalità del programma tramite inserimento delle loro credenziali (nome utente e password) fatto questo si accederà alla pagina iniziale del registro nella quale si trovano le funzionalità principali a seconda del tipo d'utente che vi è acceduto.
 <br>
-<h1>Descrizione programma</h1>
+<h1>Descrizione programma:</h1>
 <p>Il programma sarà sviluppato interamente in JAVA per far si che possa essere utilizzato su qualsiasi sitema operativo. Tutti i dati verranno salvati su un server e anche nella macchina dell'utente, con la possibilità di scaricare tutti i dati sulla macchina. Questo per permettere di visualizzare i dati offline e fornire una sorta di backup. </p>
 <br>
-<h1>Istruzioni di Installazione</h1>
+<h1>Istruzioni di Installazione:</h1>
  <p>Il programma verrà installato e l'utente potrà accedre tramite credenziali ( nome utente e password) e poi potrà tranquillamente interfacciarsi con il nostro registro</p>
  <h1>Vantaggi:</h1>
 <p>Il nostro registro elettronico da la possibilità di accedervi da ogni dispositivo a disposizione (pc,tablet,smartphone)
